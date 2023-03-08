@@ -1,0 +1,23 @@
+
+
+body{background-color: #dde8f3;
+margin-top: 30px;margin-left: 10px;margin-right: 350px;margin-block-end: 15px;
+}
+    
+#nombre{
+    border: solid 1px;
+    padding: 8px; }
+    
+#demo{color:black;font-weight: bold ;text-align: center;}    
+   
+    legend {
+        border: solid 1px  ;
+        border-radius: 15px;
+        background-color: rgb(207, 207, 249);
+
+    }
+        .caja{color: #dde8f3;
+        width: 1000px;
+        margin: 20px;}
+        .caja.azul{border: black 2px solid;background: rgb(111, 111, 240);color:black;}
+ 
